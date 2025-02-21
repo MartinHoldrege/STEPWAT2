@@ -13,7 +13,7 @@ nDimY     1                     # Number of grid cells along y dimension (used i
 nDimS     1                     # Number of sites (used if "s")
 
 StartYear 1980                  # First (Gregorian) calendar year of simulation
-EndYear   2020                  # Last (Gregorian) calendar year of simulation
+EndYear   2129                  # Last (Gregorian) calendar year of simulation
 StartDoy  1                     # First day of first year
 EndDoy    365                   # Last day of last year (365 is equivalent to 366)
 
